@@ -31,7 +31,7 @@ Quatro copilotos especializados para diferentes fases do desenvolvimento.
 - **AGENT** → Implementação
 - **STUDY** → Aprofundamento (quando necessário)
 
-# 💡 ESCOLHA RÁPIDA
+## 💡 ESCOLHA RÁPIDA
 - Começando algo? → **PLAN**
 - Implementando? → **AGENT**
 - Com dúvida? → **ASK**
